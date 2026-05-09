@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-agenzia-viaggi",
+  "name": "demo-agenzia-viaggi",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Agenzia Viaggi — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://agenzia-viaggi.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-agenzia-viaggi.git"
+    "url": "https://github.com/fedcal/demo-agenzia-viaggi.git"
   },
   "scripts": {
     "ng": "ng",

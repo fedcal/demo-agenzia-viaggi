@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Agenzia Viaggi** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://agenzia-viaggi.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-agenzia-viaggi/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-agenzia-viaggi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-agenzia-viaggi.git
-cd federico-demo-agenzia-viaggi
+git clone https://github.com/fedcal/demo-agenzia-viaggi.git
+cd demo-agenzia-viaggi
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:agenzia-viaggi
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-agenzia-viaggi/
+→ https://fedcal.github.io/demo-agenzia-viaggi/
 
 ## Hub demos Federico
 

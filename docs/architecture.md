@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-agenzia-viaggi/
+demo-agenzia-viaggi/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
