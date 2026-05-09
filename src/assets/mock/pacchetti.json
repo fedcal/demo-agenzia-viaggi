@@ -1,0 +1,76 @@
+{
+  "pacchetti": [
+    {
+      "id": "discovery",
+      "tier": "discovery",
+      "nome": "Discovery",
+      "descrizione": "Il pacchetto ideale per chi vuole esplorare una destinazione per la prima volta con guida locale, sistemazione confortevole e itinerario ottimizzato. Perfetto per coppie e viaggiatori singoli.",
+      "prezzoMin": 1800,
+      "prezzoMax": 3500,
+      "includeServizi": [
+        "Volo A/R tariffa economy",
+        "Hotel 3-4 stelle scelti da noi",
+        "Trasferimenti aeroporto",
+        "Guida locale certificata per 3 giorni",
+        "Assicurazione medico-bagaglio base",
+        "Supporto WhatsApp 7 giorni su 7"
+      ],
+      "nonInclude": [
+        "Pasti (salvo dove indicato)",
+        "Visite e ingressi ai monumenti",
+        "Escursioni opzionali",
+        "Spese personali e souvenir"
+      ],
+      "ideal": "Prima visita, coppie, viaggiatori indipendenti"
+    },
+    {
+      "id": "premium",
+      "tier": "premium",
+      "nome": "Premium",
+      "descrizione": "Esperienza elevata con hotel boutique selezionati, guida privata dedicata per tutto il tour, esperienze autentiche riservate e assistenza prioritaria. Per chi non vuole compromessi.",
+      "prezzoMin": 3500,
+      "prezzoMax": 6500,
+      "includeServizi": [
+        "Volo A/R tariffa premium economy o business",
+        "Hotel boutique e lodge 4-5 stelle",
+        "Transfer privato per tutto il tour",
+        "Guida privata dedicata tutto il viaggio",
+        "Assicurazione completa premium",
+        "3 esperienze gastronomiche incluse",
+        "Accesso lounge aeroportuale",
+        "Assistenza dedicata 24/7",
+        "Valigia spedita prima del ritorno"
+      ],
+      "nonInclude": [
+        "Spese personali e souvenir",
+        "Mance facoltative"
+      ],
+      "ideal": "Anniversari, viaggi di nozze, esigenze elevate"
+    },
+    {
+      "id": "custom",
+      "tier": "custom",
+      "nome": "Custom Design",
+      "descrizione": "Costruiamo insieme il tuo viaggio da zero. Nessun vincolo, ogni dettaglio pensato per te: combinazione di destinazioni, tempi, attività su misura. Il nostro travel designer ti segue in ogni fase.",
+      "prezzoMin": 5000,
+      "prezzoMax": null,
+      "includeServizi": [
+        "Consulenza travel designer dedicata (2 sessioni)",
+        "Itinerario completamente personalizzato",
+        "Volo classe a scelta (economy/business/prima)",
+        "Sistemazioni selezionate ad hoc",
+        "Guide specializzate per ogni tappa",
+        "Esperienze esclusive e private",
+        "Assicurazione platinum multi-rischio",
+        "Assistenza 24/7 con numero diretto",
+        "Report di viaggio personalizzato",
+        "Revisione gratuita itinerario fino alla partenza"
+      ],
+      "nonInclude": [
+        "Costi di visto (assistiamo nella pratica)",
+        "Spese personali"
+      ],
+      "ideal": "Viaggi combinati, gruppi famiglia, esigenze speciali, anniversari importanti"
+    }
+  ]
+}

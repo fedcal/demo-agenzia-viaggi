@@ -1,0 +1,44 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Giulia Marchetti",
+      "ruolo": "Founder & Travel Designer Asia",
+      "bio": "Giulia ha fondato Atlante Viaggi nel 2008 dopo 5 anni di esperienze in tour operator internazionali. Specializzata in Asia Orientale, ha vissuto 3 anni a Kyoto e parla giapponese. Ha progettato oltre 800 itinerari in Giappone, Vietnam e Bali.",
+      "areaSpecializzazione": "Asia Orientale e Sud-Est Asiatico",
+      "anniEsperienza": 18,
+      "lingue": ["Italiano", "Inglese", "Giapponese", "Francese"],
+      "destinazioniPreferite": ["Giappone", "Vietnam", "Bali"]
+    },
+    {
+      "id": 2,
+      "nome": "Omar Benali",
+      "ruolo": "Travel Designer Africa e Medio Oriente",
+      "bio": "Omar è cresciuto tra Casablanca e Bologna. Conosce il Maghreb come le sue tasche e ha una rete di partner locali in tutto il continente africano. Il suo punto di forza è trovare esperienze autentiche lontane dai circuiti turistici di massa.",
+      "areaSpecializzazione": "Africa, Maghreb e Medio Oriente",
+      "anniEsperienza": 12,
+      "lingue": ["Italiano", "Francese", "Arabo", "Inglese"],
+      "destinazioniPreferite": ["Marocco", "Sud Africa", "Madagascar"]
+    },
+    {
+      "id": 3,
+      "nome": "Valentina Cruz",
+      "ruolo": "Travel Designer Americhe e Oceania",
+      "bio": "Valentina ha girato il Sud America da nord a sud in tre anni di viaggi on the road prima di unirsi ad Atlante. Esperta di ecoturismo e avventura, è la persona giusta per Patagonia, Costa Rica e qualsiasi esperienza nella natura incontaminata.",
+      "areaSpecializzazione": "America Latina, Nord America, Oceania",
+      "anniEsperienza": 10,
+      "lingue": ["Italiano", "Spagnolo", "Inglese", "Portoghese"],
+      "destinazioniPreferite": ["Patagonia", "Costa Rica", "Islanda"]
+    },
+    {
+      "id": 4,
+      "nome": "Luca Ferretti",
+      "ruolo": "Responsabile Logistica e Gruppi",
+      "bio": "Luca coordina la parte operativa: visti, assicurazioni, transfer e tutto quello che deve funzionare perfettamente in viaggio. Ha gestito gruppi fino a 30 persone in ogni angolo del mondo, dal safari in Kenya alla crociera tra i fiordi norvegesi.",
+      "areaSpecializzazione": "Europa, Scandinavia e Gestione Gruppi",
+      "anniEsperienza": 14,
+      "lingue": ["Italiano", "Inglese", "Tedesco"],
+      "destinazioniPreferite": ["Norvegia", "Islanda", "Egitto"]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ragioneSociale": "Atlante Viaggi Boutique S.r.l.",
+  "nomeCommerciale": "Atlante Viaggi Boutique",
+  "tagline": "Viaggi su misura per esploratori curiosi",
+  "associazione": "Asscom Confcommercio",
+  "fondazione": 2008,
+  "indirizzo": {
+    "via": "Via Indipendenza 34",
+    "citta": "Bologna",
+    "provincia": "BO",
+    "cap": "40121",
+    "regione": "Emilia-Romagna",
+    "paese": "Italia",
+    "lat": 44.4949,
+    "lng": 11.3426
+  },
+  "contatti": {
+    "telefono": "+39 051 555 2200",
+    "whatsapp": "+39 347 8881234",
+    "email": "info@atlanteviaggi.it",
+    "social": {
+      "instagram": "https://instagram.com/atlanteviaggi_demo",
+      "facebook": "https://facebook.com/atlanteviaggi_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:30 – 13:00 / 15:00 – 19:00",
+    "martedi": "09:30 – 13:00 / 15:00 – 19:00",
+    "mercoledi": "09:30 – 13:00 / 15:00 – 19:00",
+    "giovedi": "09:30 – 13:00 / 15:00 – 19:00",
+    "venerdi": "09:30 – 13:00 / 15:00 – 18:30",
+    "sabato": "10:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Atlante Viaggi Boutique — Viaggi su misura Bologna",
+    "description": "Agenzia viaggi boutique a Bologna. Itinerari personalizzati in Asia, Africa, America Latina, Europa. Travel designer esperti. Asscom Confcommercio.",
+    "keywords": ["agenzia viaggi bologna", "viaggi su misura", "travel designer", "tour personalizzati", "Giappone tour", "Marocco viaggio"]
+  }
+}

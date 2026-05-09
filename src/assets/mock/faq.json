@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "domanda": "L'assicurazione è inclusa nel pacchetto?",
+      "risposta": "Sì, tutti i nostri pacchetti includono un'assicurazione medico-bagaglio. Il pacchetto Premium include la copertura completa; il Custom include la nostra polizza platinum multi-rischio. Offriamo anche polizze estese con copertura annullamento viaggio e rischi sportivi su richiesta."
+    },
+    {
+      "domanda": "Come funziona la gestione dei visti?",
+      "risposta": "Alcune destinazioni richiedono il visto (India, Vietnam, Marocco con e-visa, ecc.). Forniamo tutta la documentazione necessaria, accompagniamo nella procedura e, dove possibile, gestiamo direttamente la richiesta per conto del cliente. Il costo del visto non è incluso nel pacchetto ma è indicato nel preventivo dettagliato."
+    },
+    {
+      "domanda": "Organizzate viaggi di gruppo o solo individuali?",
+      "risposta": "Organizziamo entrambi. Per i gruppi (minimo 6, massimo 20 persone) offriamo tariffe dedicate e un responsabile di viaggio incluso. Gestiamo anche viaggi di classe, team building aziendali, gruppi di amici e associazioni culturali. Contattaci per un preventivo specifico."
+    },
+    {
+      "domanda": "Posso viaggiare da solo? Ci sono pacchetti per single?",
+      "risposta": "Certamente. Progettiamo molti itinerari per viaggiatori singoli. Il supplemento singola è spesso inevitabile per l'hotel, ma lavoriamo per minimizzarlo. Abbiamo anche gruppi departure dove singoli si uniscono ad altri viaggiatori con interessi simili per condividere i costi."
+    },
+    {
+      "domanda": "È il mio primo viaggio lungo. Come mi supportate?",
+      "risposta": "Il primo viaggio lungo può sembrare complesso ma siamo qui per questo. Il nostro travel designer ti guida nella scelta della destinazione in base a budget, durata, interessi e livello di avventura desiderato. Ti forniamo un brief di viaggio completo, app offline con itinerario e un numero WhatsApp diretto per tutto il periodo."
+    }
+  ]
+}
